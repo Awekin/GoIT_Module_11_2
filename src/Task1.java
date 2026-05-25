@@ -1,8 +1,7 @@
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class OddNames {
+public class Task1 {
     public List<String> getOddNames(List<String> names) {
 
         return names.stream()
